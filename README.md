@@ -2,7 +2,12 @@
 ## Datasets & Templates:
 Artificial-Neural-Networks
 ## Additional Reading:
-Yann LeCun et al., 1998, Efficient BackProp
+<ul>
+  <li>
+    Yann LeCun et al., 1998, Efficient BackProp
+  </li>
+</ul>
+
 By Xavier Glorot et al., 2011 Deep sparse rectifier neural networks
 CrossValidated, 2015, A list of cost functions used in neural networks, alongside applications
 Andrew Trask, 2015, A Neural Network in 13 lines of Python (Part 2 – Gradient Descent)
