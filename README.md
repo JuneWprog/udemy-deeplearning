@@ -1,7 +1,7 @@
 # Part 1: Artificial Neural Networks (ANN)
-Datasets & Templates:
+## Datasets & Templates:
 Artificial-Neural-Networks
-Additional Reading:
+## Additional Reading:
 Yann LeCun et al., 1998, Efficient BackProp
 By Xavier Glorot et al., 2011 Deep sparse rectifier neural networks
 CrossValidated, 2015, A list of cost functions used in neural networks, alongside applications
