@@ -84,6 +84,7 @@ Boltzmann-Machines
 <li>Ruslan Salakhutdinov, 2009?, Deep Boltzmann Machines</li>
 
 </ul>
+
 # Part 6: AutoEncoders (AE)
 ## Datasets & Templates:
 AutoEncoders
